@@ -1,0 +1,114 @@
+
+body {
+    /* background-color: darkgreen; */
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+.common {
+    /* color: white; */
+    /* border: solid 2px white; */
+    position: absolute;
+}
+.header {
+    z-index: 2;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 90px;
+    padding: 5px;
+    /* border-bottom: solid 1px blue; */
+}
+.subHeader {
+    float: right;
+}
+.leftMenu {
+    z-index: 1;
+    top: 150px;
+    left: 5px;
+    width: 100px;
+    bottom: 36px;
+    padding: 5px;
+    /* border-right: solid lightcoral 2px; */
+}
+.rightMenu {
+    float: right;
+    z-index: 1;
+    top: 150px;
+    right: 5px;
+    width: 100px;
+    bottom: 36px;
+    padding: 5px;
+    /* border-left: solid lightcoral 2px; */
+}
+.mainBody {
+    z-index: 1;
+    top: 150px;
+    left: 122px;
+    right: 122px;
+    bottom: 36px;
+    padding: 5px;
+}
+.footer {
+    z-index: 1;
+    font-size: 8px;
+    text-align: center;
+    color: grey;
+    bottom: 10px;
+    left: 5px;
+    right: 5px;
+    height: 10px;
+    padding: 5px;
+    position: fixed;
+    /* border-top: solid rgb(201, 57, 57) 1px; */
+}
+
+
+
+
+
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gold;
+    background-size: cover;
+    background-image: url(../lukesimages/hqBlack.jpg)
+}
+.title {
+    color: gold;
+    ;
+}
+li {
+    color: silver;
+    font-style: italic;
+    font-weight: normal;
+}
+.resumeListHeading {
+    font-weight: bold;
+    color: cornflowerblue;
+    font-style: normal;
+}
+.underline {
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    font-size: larger;
+}
+.justify {
+    text-align: right;
+}
+.bold {
+    font-weight: bold;
+}
+.box1 {
+    border: solid 3px yellow;
+}
+.box2 {
+    padding: 7px;
+}
+.box3 {
+    margin: 30px;
+}

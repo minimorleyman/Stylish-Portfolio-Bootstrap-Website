@@ -1,0 +1,55 @@
+.welcometitle {
+    margin-bottom: 0.25rem !important;
+    text-align: right;
+    /* color: #b0aea3; */
+  }
+
+  .welcometext {
+    margin-bottom: 3rem !important;
+    text-align: right;
+    /* color: #7a7a78; */
+    border: 5px;
+  }
+
+  .rightalign {
+    text-align: right;
+  }
+
+  .leftalign {
+    text-align: left;
+  }
+
+  .centeralign {
+    margin-left: 160px;
+  }
+
+  .openingphoto {
+    float: left;
+    margin: 0 15px 0 0;
+  }
+
+  .imgborder {
+    border: 3px solid #ecb807;
+  }
+
+  .yellowtext {
+    color: #ecb807;
+  }
+
+  .bold {
+    font-weight: bolder;
+  }
+
+  .italics {
+    font-style: italic;
+  }
+
+  .jobdates {
+    float: right;
+  }
+
+  .bottomimage {
+    max-width: 100%;
+    /* background: url(../lukesimages/skydiving.JPG) no-repeat center fixed;
+    background-size: cover; */
+  }
